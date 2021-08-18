@@ -13,3 +13,5 @@ aux_links:
   "VoronDesign Home":
     - "https://vorondesign.com"
 
+
+theme: jekyll-theme-midnight
